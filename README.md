@@ -52,7 +52,7 @@ magento_e-commerce-automation-selenium/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/magento_e-commerce-automation-selenium.git
+   git clone https://github.com/sangita12/magento_e-commerce-automation-selenium.git
    
 2. Import into Eclipse or IntelliJ
 
