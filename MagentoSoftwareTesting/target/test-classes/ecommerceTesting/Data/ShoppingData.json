@@ -1,0 +1,16 @@
+[
+{
+"email" : "jane.tester@demo.com",
+"password" : "Test@1234!",
+"userName" : "Jane Tester",
+"productName" : "Adrienne Trek Jacket",
+"company" :  "Testing automation",
+"street" : "1234 Market Street",
+"city" : "San Francisco",
+"zipcode" : "94103",
+"phonenumber": "9845687956",
+"country" : "United States",
+"state" : "California"
+}
+]
+
